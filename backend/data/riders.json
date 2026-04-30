@@ -1,0 +1,80 @@
+[
+  {
+    "id": "rd1",
+    "name": "Arjun Singh",
+    "phone": "+91-9876543210",
+    "rating": 4.8,
+    "vehicle": "Bike",
+    "status": "available",
+    "lat": 30.7333,
+    "lng": 76.7794,
+    "completedOrders": 234,
+    "avatar": "A",
+    "onlineHours": 6
+  },
+  {
+    "id": "rd2",
+    "name": "Rahul Sharma",
+    "phone": "+91-9823456701",
+    "rating": 4.6,
+    "vehicle": "Scooter",
+    "status": "available",
+    "lat": 30.74,
+    "lng": 76.79,
+    "completedOrders": 189,
+    "avatar": "R",
+    "onlineHours": 4
+  },
+  {
+    "id": "rd3",
+    "name": "Priya Mehta",
+    "phone": "+91-9812345678",
+    "rating": 4.9,
+    "vehicle": "Bike",
+    "status": "busy",
+    "lat": 30.725,
+    "lng": 76.77,
+    "completedOrders": 312,
+    "avatar": "P",
+    "onlineHours": 8
+  },
+  {
+    "id": "rd4",
+    "name": "Vikram Patel",
+    "phone": "+91-9801234567",
+    "rating": 4.5,
+    "vehicle": "Scooter",
+    "status": "available",
+    "lat": 30.745,
+    "lng": 76.8,
+    "completedOrders": 156,
+    "avatar": "V",
+    "onlineHours": 3
+  },
+  {
+    "id": "rd5",
+    "name": "Sneha Kapoor",
+    "phone": "+91-9790123456",
+    "rating": 4.7,
+    "vehicle": "Bike",
+    "status": "busy",
+    "lat": 30.72,
+    "lng": 76.785,
+    "completedOrders": 278,
+    "avatar": "S",
+    "onlineHours": 7
+  },
+  {
+    "id": "rd6",
+    "name": "Deepak Verma",
+    "phone": "+91-9781234567",
+    "rating": 4.4,
+    "vehicle": "Scooter",
+    "status": "available",
+    "lat": 30.735,
+    "lng": 76.775,
+    "completedOrders": 98,
+    "avatar": "D",
+    "onlineHours": 2
+  }
+]

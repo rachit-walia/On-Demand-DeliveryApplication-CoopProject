@@ -1,0 +1,30 @@
+[
+  {
+    "id": "z1",
+    "name": "Sector 17",
+    "lat": 30.741,
+    "lng": 76.778,
+    "surgeMultiplier": 1
+  },
+  {
+    "id": "z2",
+    "name": "Sector 22",
+    "lat": 30.736,
+    "lng": 76.79,
+    "surgeMultiplier": 1.2
+  },
+  {
+    "id": "z3",
+    "name": "Sector 8",
+    "lat": 30.728,
+    "lng": 76.772,
+    "surgeMultiplier": 1
+  },
+  {
+    "id": "z4",
+    "name": "Sector 35",
+    "lat": 30.748,
+    "lng": 76.802,
+    "surgeMultiplier": 1.5
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dce5ae9f-b7f7-44c0-ad1b-4c1df7d2ea28",
+    "name": "Rachit ",
+    "email": "rachit3@gmail.com",
+    "password": "123456",
+    "phone": "",
+    "address": "",
+    "role": "customer",
+    "loyaltyPoints": 0,
+    "totalOrders": 0,
+    "totalSpent": 0,
+    "savedAddresses": [],
+    "createdAt": "2026-04-24T06:54:48.551Z"
+  }
+]

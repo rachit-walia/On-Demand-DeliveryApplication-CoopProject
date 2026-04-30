@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c1",
+    "name": "Pizza",
+    "icon": "🍕",
+    "color": "#FF5A1F"
+  },
+  {
+    "id": "c2",
+    "name": "Burgers",
+    "icon": "🍔",
+    "color": "#F59E0B"
+  },
+  {
+    "id": "c3",
+    "name": "Biryani",
+    "icon": "🍛",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "c4",
+    "name": "Chinese",
+    "icon": "🥡",
+    "color": "#EF4444"
+  },
+  {
+    "id": "c5",
+    "name": "Sushi",
+    "icon": "🍱",
+    "color": "#06B6D4"
+  },
+  {
+    "id": "c6",
+    "name": "Tacos",
+    "icon": "🌮",
+    "color": "#22C55E"
+  },
+  {
+    "id": "c7",
+    "name": "Desserts",
+    "icon": "🍰",
+    "color": "#EC4899"
+  },
+  {
+    "id": "c8",
+    "name": "Healthy",
+    "icon": "🥗",
+    "color": "#84CC16"
+  },
+  {
+    "id": "c9",
+    "name": "Sandwiches",
+    "icon": "🥪",
+    "color": "#F97316"
+  },
+  {
+    "id": "c10",
+    "name": "Pasta",
+    "icon": "🍝",
+    "color": "#A855F7"
+  }
+]

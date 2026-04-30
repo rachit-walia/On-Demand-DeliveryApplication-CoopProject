@@ -1,0 +1,68 @@
+[
+  {
+    "id": "o1",
+    "code": "FIRST50",
+    "discount": 50,
+    "type": "percent",
+    "minOrder": 0,
+    "maxDiscount": 150,
+    "description": "50% off your first order!",
+    "emoji": "🎉",
+    "expiry": "2026-12-31"
+  },
+  {
+    "id": "o2",
+    "code": "SAVE100",
+    "discount": 100,
+    "type": "flat",
+    "minOrder": 499,
+    "maxDiscount": 100,
+    "description": "Flat ₹100 off on orders above ₹499",
+    "emoji": "💸",
+    "expiry": "2026-12-31"
+  },
+  {
+    "id": "o3",
+    "code": "FREEDEL",
+    "discount": 0,
+    "type": "free_delivery",
+    "minOrder": 199,
+    "maxDiscount": 0,
+    "description": "Free delivery on orders above ₹199",
+    "emoji": "🛵",
+    "expiry": "2026-12-31"
+  },
+  {
+    "id": "o4",
+    "code": "WEEKEND20",
+    "discount": 20,
+    "type": "percent",
+    "minOrder": 299,
+    "maxDiscount": 80,
+    "description": "20% off every weekend",
+    "emoji": "🎊",
+    "expiry": "2026-12-31"
+  },
+  {
+    "id": "o5",
+    "code": "NEWUSER",
+    "discount": 60,
+    "type": "percent",
+    "minOrder": 0,
+    "maxDiscount": 200,
+    "description": "60% off for new users",
+    "emoji": "🆕",
+    "expiry": "2026-12-31"
+  },
+  {
+    "id": "o6",
+    "code": "FLASH30",
+    "discount": 30,
+    "type": "percent",
+    "minOrder": 149,
+    "maxDiscount": 90,
+    "description": "Flash deal — 30% off limited time",
+    "emoji": "⚡",
+    "expiry": "2026-12-31"
+  }
+]
