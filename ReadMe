@@ -1,0 +1,18 @@
+ABSTRACT 
+
+This project presents an Intelligent On-Demand Delivery Application enhanced with a dynamic decision-making layer, designed to improve traditional delivery systems that rely on static workflows and manual coordination. Unlike conventional logistics platforms, the proposed system introduces a semi-intelligent orchestration approach that analyzes user inputs, evaluates delivery conditions, and dynamically determines optimal execution strategies for delivery operations.
+
+The system processes real-time user requests such as pickup and drop-off locations, package weight, quantity, and service type, and applies rule-based decision logic to perform three core operations: route optimization, dynamic pricing, and intelligent vehicle allocation. Instead of relying on fixed delivery patterns, the system adapts to varying delivery scenarios by selecting the most efficient route using shortest-path algorithms, assigning appropriate vehicles based on load requirements, and calculating fair pricing dynamically.
+
+The architecture follows a modular and scalable design, consisting of input processing, decision-making, and execution layers. The front-end interface enables users to interact seamlessly with the system, while the back-end handles logic execution, real-time updates, and data management. Technologies such as React.js, Node.js, Express.js, and Socket.io are used to ensure responsiveness and real-time communication. The system currently utilizes local storage for data handling, with provisions for future integration with MongoDB for scalability.
+
+The implementation demonstrates how integrating a decision-making layer within a delivery system can significantly enhance operational efficiency, reduce delivery time, optimize resource utilization, and improve user experience. The system also maintains transparency through real-time tracking and status updates.
+
+The outcome of this project is a functional prototype that highlights the potential of combining traditional logistics systems with intelligent decision-based automation. It provides a strong foundation for future enhancements such as AI-based route prediction, real-time traffic analysis, smart fleet management, and fully autonomous delivery orchestration systems.
+
+Submitted By
+Ashmita (2210990190)
+Rachit (2210990695)
+Abhima (2210991151)
+Yashika (2210990977)
+💡 Why this version is better
